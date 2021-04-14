@@ -169,6 +169,9 @@ const Contact = () => {
                   <ContactIconBorder href="https://github.com/mitchellmujwit" target="_blank">
                     <ContactIcon src={require('../images/github.svg').default}/>
                   </ContactIconBorder>
+                  <ContactIconBorder href="https://sitebolts.com/mitchellsresume/" target="_blank">
+                    <ContactIcon src={require('../images/pdf.svg').default}/>
+                  </ContactIconBorder>
                 </ContactIconWrapper>
                 <ContactImageWrapper>
                   <ContactImage src={require('../images/contact.svg').default} />
